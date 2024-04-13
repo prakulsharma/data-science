@@ -1,0 +1,12 @@
+name: 'mds-complete'
+channels:
+    - conda-forge
+    - anaconda
+    - defaults
+dependencies:
+    - python==3.10
+    - ipykernel 
+    - requests>=2.24.0
+    - ipython
+    - jinja2
+    - pip>=23.2.1
