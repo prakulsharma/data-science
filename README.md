@@ -1,6 +1,6 @@
-# MDS-Complete
+# Data Science
 
-## UBC Master of Data Science (Computational Linguistics) - Complete and comprehensive course*
+## Data Science with a deep dive in Computational Linguistics - Complete and comprehensive course*
 
 ### Block 1
 
@@ -58,4 +58,4 @@ conda env create -f mds-complete.yml
 
 ## Note
 
-*This indicates that this course is basically what I found to be useful in MDS. This may include supplementary readings and sources, and may even include absence of topics from the official course notes that I found irrelevant (e.g., niche topics such as Quarto or Altair).
+*This indicates that this course is basically an interpretation and compilation of what I found to be useful in UBC MDS. This may include supplementary readings and sources, and may even include absence of topics from the official course notes that I found irrelevant (e.g., niche topics such as Quarto or Altair).
