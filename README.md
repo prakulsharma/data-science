@@ -1,2 +1,2 @@
-# data-science
-Personal notes on Data Science
+# Data Science
+My personal notes on Data Science.
